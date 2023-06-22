@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  highlight_level: NONE
+  text: |-
+    val lastIndexChar = inputString[inputString.length]
+    println(lastIndexChar)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13271#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 20 Jun 2023 08:57:56 UTC"
+record: -1
+submission_language: kotlin

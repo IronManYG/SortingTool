@@ -1,0 +1,12 @@
+content:
+- String arrays
+- The main() function
+- Floating-point types
+- Mutable List
+- Map
+- Mutable Map
+- Hierarchy of exceptions
+- Taming exceptions
+- The try-catch statement
+- The try-catch-finally statement
+- Functions as objects

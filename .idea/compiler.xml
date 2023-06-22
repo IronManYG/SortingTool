@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Sorting_Tool_(Kotlin).Sorting_Tool__Kotlin_-task-build-classes-kotlin.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Sorting_Tool__Kotlin_-task-build-reports-tests.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Sorting_Tool__Kotlin_-task-build-test-results.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Sorting_Tool__Kotlin_-task-build-tmp.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Sorting_Tool__Kotlin_-task.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Floating-point_types-Difference_between_two_doubles.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Floating-point_types-Distance.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Floating-point_types-Evaluate_an_expression.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Floating-point_types-Liquid_pressure.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Floating-point_types-Theory.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Floating-point_types-What_is_the_result.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Functions_as_objects-Function_generator.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Functions_as_objects-Function_type.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Functions_as_objects-Reference_to_a_top.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Functions_as_objects-Theory.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Hierarchy_of_exceptions-ArithmeticException.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Hierarchy_of_exceptions-Fix_the_code.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Hierarchy_of_exceptions-Match_descriptions.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Hierarchy_of_exceptions-RuntimeException.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Hierarchy_of_exceptions-Theory.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Hierarchy_of_exceptions-What_is_Throwable.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Map-Comprehension.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Map-Sum_of_values.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Map-Theory.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Mutable_List-Adding.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Mutable_List-Mutable_List.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Mutable_List-New_List.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Mutable_List-Theory.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Mutable_List-Transformation.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Mutable_List-You_don't_need_them.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Mutable_Map-About_Mutable_Map.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Mutable_Map-Exam_marks.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Mutable_Map-Help_the_robot.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Mutable_Map-The_output_is.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Mutable_Map-The_output_of_two_maps.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Mutable_Map-Theory.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-String_arrays-Empty.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-String_arrays-Theory.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-String_arrays-Yet_another_array.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Taming_exceptions-Dividing_by_zero.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Taming_exceptions-Handle_string_exception.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Taming_exceptions-Practice.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-Taming_exceptions-Theory.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-The_main___function-Change_program_arguments.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-The_main___function-Comprehension.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-The_main___function-Theory.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-The_main___function-Using_arguments.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-The_try-catch-finally_statement-Choose_the_correct_option.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-The_try-catch-finally_statement-The_end.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-The_try-catch-finally_statement-The_finally_block.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-The_try-catch-finally_statement-Theory.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-The_try-catch-finally_statement-Using_as_expressions.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-The_try-catch-finally_statement-Will_it_be_printed.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-The_try-catch_statement-Exception_message.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).Topics-The_try-catch_statement-Theory.main" target="15" />
+      <module name="Sorting_Tool_(Kotlin).util.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
